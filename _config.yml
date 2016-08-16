@@ -6,9 +6,9 @@ color:
   saturation: 0.456163477152586
   rhythmicContrast: 0.7006076294928789
   brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#00BBFE'
-    - '#E9C500'
-    - '#C90708'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: romsdal
